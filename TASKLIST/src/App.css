@@ -1,0 +1,20 @@
+
+.contenedorPrincipal {
+    background-color: rgb(104, 104, 97);
+    align-content: center;
+    width: 1280px;
+    margin: 150px 30px 700px;
+    border: 5px black solid;
+    border-radius: 26px;
+    align-content: center;
+    text-align: center;
+    display: flexbox;
+    
+
+}
+
+.contenedorTasklist {
+    background-color: rgb(211, 144, 20);
+    margin: 20px;
+    border:gold;
+}
